@@ -1,7 +1,7 @@
 import sys
 
 import pygame
-# added comment
+
 from settings import Settings
 from ship import Ship
 
