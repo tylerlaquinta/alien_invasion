@@ -1,7 +1,7 @@
 import sys
 
 import pygame
-#check
+
 from settings import Settings
 from ship import Ship
 
